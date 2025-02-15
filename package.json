@@ -1,0 +1,6 @@
+{
+    "name": "com.maxgribov.mesh-voxelizer",
+    "version": "1.0.0",
+    "displayName": "Mesh Voxelizer Package",
+    "description": "This Unity package allows you to split the geometry into separate voxels."
+  }
