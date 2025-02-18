@@ -1,0 +1,11 @@
+﻿{
+  "name": "maxgribov.mesh-voxelizer.Editor",
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "references":[ "GUID:e828ebece2b04becaff59f3b3b534775" ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "maxgribov.mesh-voxelizer",
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": []
+}
